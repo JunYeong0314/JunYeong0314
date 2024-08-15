@@ -1,7 +1,7 @@
 <img src="https://img.shields.io/badge/kkmtk00314@naver.com-EA4335?style=flat&logo=Gmail&logoColor=white"/> <a href="https://velog.io/@kkmtk00314/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
 
 👋 Hi there! I'm interested in **Android**  
-Sometimes, I'm studying React Native 🔥  
+Sometimes, I'm studying Flutter, React Native 🔥  
 
 I enjoy running and taking a walk 🏃🏻  
 I want to be a growing App developer 🚀  
